@@ -1,2 +1,1 @@
-
-puts # {greeting}
+puts #greeting

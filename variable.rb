@@ -1,4 +1,2 @@
 
 puts # {greeting}
-
-
